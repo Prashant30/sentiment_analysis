@@ -16,5 +16,6 @@ A basic sentiment analysis of the posts collected from online to train and test 
 | Neutral      | None of the listed emotions                                                                                                                         |
 
 I have given enough detail in code about the model and training and testing. It is a ipynb file, feel free to execute in whichever IDE you like, I have used google colab for the same.
-Please note that because of copyright issues, I cannot share the full training or testing dataset. I can share a snippet of it which can be found in a separate folder named "data". 
+Please note that because of copyright issues, I cannot share the full training or testing dataset. I have shared a snippet of it with name "data_snippet.json".
+Also, if you just want to use the learned model to your own code, you can download the learned_model.h5 file and execute for your own dataset.
 Feel free to change the code and commit but please do not change the file reading part while committing. 
